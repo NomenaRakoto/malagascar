@@ -1,2 +1,1 @@
-# malagascar
-malagasycar
+# malagasycar
